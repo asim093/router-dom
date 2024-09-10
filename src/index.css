@@ -1,0 +1,31 @@
+.card{
+    height:800px !important;
+}
+
+.card img{
+    height: 300px;
+}
+
+.content-div{
+    width: 50%;
+}
+
+.spinner-border{
+height: 100px !important;
+width: 100px !important;
+position: relative !important;
+top: 50% !important;
+}
+
+.image-div img{
+   
+}
+
+.title-div{
+    width: 40%;
+}
+
+.nav-active{
+    text-decoration: underline !important;
+    color: red !important;
+}
